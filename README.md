@@ -42,7 +42,6 @@ All of this is done using the PM10 values from real-time datasets.
 
 # Final Words
 
-The whole point was to turn boring pollutant numbers into something people can **see** and understand — in a single click.  
-You’re free to fork it, run it, modify it — or just use the visuals for your report.
+The whole point was to turn boring pollutant numbers into something people can see and understand — in a single click.  
 
 
