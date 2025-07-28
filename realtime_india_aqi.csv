@@ -1,0 +1,393 @@
+city,state,station,latitude,longitude,PM10,AQI,AQI_Category
+Visakhapatnam,Andhra_Pradesh,"GVM Corporation, Visakhapatnam - APPCB",17.72,83.3,36.0,36,Good
+Byrnihat,Assam,"Central Academy for SFS, Byrnihat - PCBA",26.071318,91.87488,90.0,90,Satisfactory
+Rajamahendravaram,Andhra_Pradesh,"Anand Kala Kshetram, Rajamahendravaram - APPCB",16.9872867,81.7363176,36.0,36,Good
+Vijayawada,Andhra_Pradesh,"Rajiv Nagar, Vijayawada - APPCB",16.554731,80.64911,48.0,48,Good
+Guwahati,Assam,"Pan Bazaar, Guwahati - PCBA",26.1875,91.744194,14.0,14,Good
+Nalbari,Assam,"Bata Chowk, Nalbari - PCBA",26.446912,91.439057,24.0,24,Good
+Silchar,Assam,"Tarapur, Silchar - PCBA",24.82827,92.79525,60.0,60,Satisfactory
+Sivasagar,Assam,"Girls College, Sivasagar - PCBA",26.987634,94.636574,25.0,25,Good
+Hajipur,Bihar,"Industrial Area, Hajipur - BSPCB",25.697189,85.2459,54.0,54,Satisfactory
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",28.58028,77.233829,166.0,144,Moderate
+Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",30.719859,76.738637,105.0,104,Moderate
+Rajgir,Bihar,"Dangi Tola, Rajgir - BSPCB",25.0328,85.41948,58.0,58,Satisfactory
+Delhi,Delhi,"DTU, Delhi - CPCB",28.7500499,77.1112615,182.0,155,Moderate
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",28.498571,77.26484,166.0,144,Moderate
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",28.4706914,77.1099364,193.0,162,Moderate
+Ahmedabad,Gujarat,"SAC ISRO Satellite, Ahmedabad - IITM",23.023389,72.515201,68.0,68,Satisfactory
+Gandhinagar,Gujarat,"GIFT City, Gandhinagar - IITM",23.163798,72.677768,82.0,82,Satisfactory
+Delhi,Delhi,"Patparganj, Delhi - DPCC",28.623763,77.287209,204.0,169,Moderate
+Delhi,Delhi,"Pusa, Delhi - DPCC",28.639652,77.146275,180.0,153,Moderate
+Ahmedabad,Gujarat,"Maninagar, Ahmedabad - GPCB",23.002657,72.591912,74.0,74,Satisfactory
+Baddi,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi - HPPCB",30.943887,76.801991,174.0,150,Moderate
+Bengaluru,Karnataka,"City Railway Station, Bengaluru - KSPCB",12.9756843,77.5660749,85.0,85,Satisfactory
+Gwalior,Madhya Pradesh,"City Center, Gwalior - MPPCB",26.203442,78.193251,103.0,102,Moderate
+Gwalior,Madhya Pradesh,"Maharaj Bada, Gwalior - MPPCB",26.200388,78.147714,125.0,117,Moderate
+Bhopal,Madhya Pradesh,"Paryavaran Parisar, Bhopal - MPPCB",23.210494,77.425409,57.0,57,Satisfactory
+Mangalore,Karnataka,"Kadri, Mangalore - KSPCB",12.88925,74.853,57.0,57,Satisfactory
+Chamarajanagar,Karnataka,"Urban, Chamarajanagar - KSPCB",11.55358,76.55521,40.0,40,Good
+Bengaluru,Karnataka,"Sanegurava Halli, Bengaluru - KSPCB",12.990328,77.5431385,41.0,41,Good
+Bengaluru,Karnataka,"Silk Board, Bengaluru - KSPCB",12.917348,77.622813,85.0,85,Satisfactory
+Ratlam,Madhya Pradesh,"Shasthri Nagar, Ratlam - IPCA Lab",23.331731,75.045981,67.0,67,Satisfactory
+Mumbai,Maharashtra,"Bandra Kurla Complex, Mumbai - MPCB",19.065931,72.862131,66.0,66,Satisfactory
+Mumbai,Maharashtra,"Borivali East, Mumbai - IITM",19.23241,72.86895,47.0,47,Good
+Jabalpur,Madhya Pradesh,"Govindh Bhavan Colony, Jabalpur - JMC",23.163174,79.973061,50.0,50,Good
+Boisar,Maharashtra,"Khaira, Boisar - MPCB",19.786089,72.757971,58.0,58,Satisfactory
+Chandrapur,Maharashtra,"MIDC Khutala, Chandrapur - MPCB",19.9775302,79.2337086,102.0,102,Moderate
+Amravati,Maharashtra,"Shivneri Colony, Amravati - MPCB",20.9402359,77.7895248,67.0,67,Satisfactory
+Amravati,Maharashtra,"Shri Shivaji Science College, Amaravati - MPCB",20.939198,77.765701,47.0,47,Good
+Jabalpur,Madhya Pradesh,"Gupteshwar, Jabalpur - JMC",23.142888,79.916147,35.0,35,Good
+Navi Mumbai,Maharashtra,"Mahape, Navi Mumbai - MPCB",19.1135051,73.008978,61.0,61,Satisfactory
+Navi Mumbai,Maharashtra,"Sanpada, Navi Mumbai - MPCB",19.0575752,73.0151367,72.0,72,Satisfactory
+Navi Mumbai,Maharashtra,"Sector-2E Kalamboli, Navi Mumbai - MPCB",19.02579,73.10297,76.0,76,Satisfactory
+Navi Mumbai,Maharashtra,"Tondare-Taloja, Navi Mumbai - MPCB",19.063,73.1209,68.0,68,Satisfactory
+Pune,Maharashtra,"Bhosari, Pune - IITM",18.640051,73.848956,46.0,46,Good
+Pune,Maharashtra,"Bhumkar Nagar, Pune - IITM",18.60577,73.749976,59.0,59,Satisfactory
+Mumbai,Maharashtra,"Khindipada-Bhandup West, Mumbai - IITM",19.1653323,72.922099,46.0,46,Good
+Mumbai,Maharashtra,"Malad West, Mumbai - IITM",19.19709,72.82204,65.0,65,Satisfactory
+Mumbai,Maharashtra,"Mindspace-Malad West, Mumbai - MPCB",19.1878657,72.8304069,50.0,50,Good
+Mumbai,Maharashtra,"Deonar, Mumbai - IITM",19.04946,72.923,105.0,104,Moderate
+Mumbai,Maharashtra,"Kandivali East, Mumbai - MPCB",19.2058,72.8682,99.0,99,Satisfactory
+Nanded,Maharashtra,"Sneh Nagar, Nanded - MPCB",19.173852,77.296291,32.0,32,Good
+Nashik,Maharashtra,"Gangapur Road, Nashik - MPCB",20.0073285,73.7762427,39.0,39,Good
+Mumbai,Maharashtra,"Chakala-Andheri East, Mumbai - IITM",19.11074,72.86084,73.0,73,Satisfactory
+Mumbai,Maharashtra,"Vile Parle West, Mumbai - MPCB",19.10861,72.83622,215.0,177,Moderate
+Pune,Maharashtra,"Dhankawadi, Pune - IITM",18.459883,73.852193,41.0,41,Good
+Solapur,Maharashtra,"Solapur, Solapur - MPCB",17.6599188,75.9063906,72.0,72,Satisfactory
+Bhubaneswar,Odisha,"Patia, Bhubaneswar - OSPCB",20.34652,85.8163,21.0,21,Good
+Sikar,Rajasthan,"Radhakishan Pura, Sikar - RSPCB",27.608912,75.153302,95.0,95,Satisfactory
+Sirohi,Rajasthan,"Vedhaynath Colony, Sirohi - RSPCB",24.885261,72.857549,62.0,62,Satisfactory
+Tonk,Rajasthan,"Shastri Nagar, Tonk - RSPCB",26.159933,75.780517,94.0,94,Satisfactory
+Kota,Rajasthan,"Shrinath Puram, Kota - RSPCB",25.14389,75.821256,94.0,94,Satisfactory
+Nagaur,Rajasthan,"Karni Colony, Nagaur - RSPCB",27.213494,73.734444,98.0,98,Satisfactory
+Pratapgarh,Rajasthan,"Pragati Nagar, Pratapgarh - RSPCB",24.041198,74.780702,59.0,59,Satisfactory
+Rajsamand,Rajasthan,"Dhoinda, Rajsamand - RSPCB",25.03636,73.883502,59.0,59,Satisfactory
+Jhunjhunu,Rajasthan,"Indra Nagar, Jhunjhunu - RSPCB",28.108988,75.386577,102.0,102,Moderate
+Jodhpur,Rajasthan,"Digari Kalan, Jodhpur - RSPCB",26.29581,73.082283,68.0,68,Satisfactory
+Bundi,Rajasthan,"New Colony, Bundi - RSPCB",25.435774,75.644272,88.0,88,Satisfactory
+Hyderabad,Telangana,"ECIL Kapra, Hyderabad - TSPCB",17.470431,78.566959,91.0,91,Satisfactory
+Cuddalore,TamilNadu,"Kudikadu, Cuddalore - TNPCB",11.6829898,79.7532099,16.0,16,Good
+Tirunelveli,TamilNadu,"Municipal Corporation Office, Tirunelveli - TNPCB",8.728442,77.6962,31.0,31,Good
+Hyderabad,Telangana,"Bollaram Industrial Area, Hyderabad - TSPCB",17.540891,78.358528,59.0,59,Satisfactory
+Meerut,Uttar_Pradesh,"Ganga Nagar, Meerut - UPPCB",28.999264,77.7590354,92.0,92,Satisfactory
+Greater Noida,Uttar_Pradesh,"Knowledge Park - III, Greater Noida - UPPCB",28.47272,77.482,105.0,104,Moderate
+Greater Noida,Uttar_Pradesh,"Knowledge Park - V, Greater Noida - UPPCB",28.557054,77.453663,141.0,128,Moderate
+Bareilly,Uttar_Pradesh,"Rajendra Nagar, Bareilly - UPPCB",28.38910936,79.42963708,66.0,66,Satisfactory
+Firozabad,Uttar_Pradesh,"Nagla Bhau, Firozabad - UPPCB",27.168897,78.37696,66.0,66,Satisfactory
+Lucknow,Uttar_Pradesh,"B R Ambedkar University, Lucknow - UPPCB",26.766433,80.927299,106.0,104,Moderate
+Asansol,West_Bengal,"Trivenidevi Bhalotia College, Asansol - WBPCB",23.616515,87.119133,52.0,52,Satisfactory
+Barrackpore,West_Bengal,"SVSPA Campus, Barrackpore - WBPCB",22.7605581,88.3617589,33.0,33,Good
+Durgapur,West_Bengal,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",23.567923,87.306843,58.0,58,Satisfactory
+Varanasi,Uttar_Pradesh,"Bhelupur, Varanasi - UPPCB",25.301778,82.996789,61.0,61,Satisfactory
+Rishikesh,Uttarakhand,"Shivaji Nagar, Rishikesh - UKPCB",30.075911,78.2859547,70.0,70,Satisfactory
+Prayagraj,Uttar_Pradesh,"Jhunsi, Prayagraj - UPPCB",25.425602,81.917152,96.0,96,Satisfactory
+Prayagraj,Uttar_Pradesh,"Nagar Nigam, Prayagraj - UPPCB",25.44919916,81.82735986,96.0,96,Satisfactory
+Moradabad,Uttar_Pradesh,"Eco Herbal Park, Moradabad - UPPCB",28.840739,78.697531,63.0,63,Satisfactory
+Moradabad,Uttar_Pradesh,"Employment Office, Moradabad - UPPCB",28.88528,78.7388,68.0,68,Satisfactory
+Moradabad,Uttar_Pradesh,"Jigar Colony, Moradabad - UPPCB",28.856664,78.772638,69.0,69,Satisfactory
+Moradabad,Uttar_Pradesh,"Transport Nagar, Moradabad - UPPCB",28.802625,78.753728,61.0,61,Satisfactory
+Howrah,West_Bengal,"Padmapukur, Howrah - WBPCB",22.5687319,88.2797276,50.0,50,Good
+Guwahati,Assam,"LGBI Airport, Guwahati - PCBA",26.10887,91.589544,39.0,39,Good
+Munger,Bihar,"Town Hall, Munger - BSPCB",25.376776,86.471523,39.0,39,Good
+Muzaffarpur,Bihar,"Buddha Colony, Muzaffarpur - BSPCB",26.11442,85.39813,44.0,44,Good
+Begusarai,Bihar,"Lohiyanagar, Begusarai - BSPCB",25.42742023,86.13886079,56.0,56,Satisfactory
+Chittoor,Andhra_Pradesh,"Gangineni Cheruvu, Chittoor - APPCB",13.20488,79.097889,65.0,65,Satisfactory
+Tirumala,Andhra_Pradesh,"Toll Gate, Tirumala - APPCB (Formerly known as Tirumala, Tirupati - APPCB)",13.67,79.35,40.0,40,Good
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",28.5710274,77.0719006,178.0,152,Moderate
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",28.647622,77.315809,178.0,152,Moderate
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",28.695381,77.181665,196.0,164,Moderate
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",28.5512005,77.2735737,179.0,153,Moderate
+Raipur,Chhattisgarh,"Bhatagaon New ISBT, Raipur - CECB",21.219665,81.630094,48.0,48,Good
+Bilaspur,Chhattisgarh,"Mangala, Bilaspur - NTPC",22.08815,82.13737,47.0,47,Good
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",28.6811736,77.3025234,146.0,131,Moderate
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",28.73282,77.170633,216.0,177,Moderate
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",28.56789,77.250515,174.0,150,Moderate
+Ankleshwar,Gujarat,"GIDC, Ankleshwar - GPCB",21.613267,73.010555,46.0,46,Good
+Delhi,Delhi,"Sirifort, Delhi - CPCB",28.5504249,77.2159377,172.0,148,Moderate
+Delhi,Delhi,"R K Puram, Delhi - DPCC",28.563262,77.186937,162.0,142,Moderate
+Gandhinagar,Gujarat,"Sector-10, Gandhinagar - GPCB",23.221714,72.654328,62.0,62,Satisfactory
+Vapi,Gujarat,"Phase-1 GIDC, Vapi - GPCB",20.362421,72.918013,57.0,57,Satisfactory
+Ahmedabad,Gujarat,"Chandkheda, Ahmedabad - IITM",23.107969,72.574648,119.0,113,Moderate
+Bengaluru,Karnataka,"Hombegowda Nagar, Bengaluru - KSPCB",12.938539,77.5901,20.0,20,Good
+Bengaluru,Karnataka,"Jayanagar 5th Block, Bengaluru - KSPCB",12.920984,77.584908,26.0,26,Good
+Chikkamagaluru,Karnataka,"Kalyana Nagara, Chikkamagaluru - KSPCB",13.328028,75.797056,32.0,32,Good
+Davanagere,Karnataka,"Devaraj Urs Badavane, Davanagere - KSPCB",14.4758,75.9052,22.0,22,Good
+Dharwad,Karnataka,"Kalabhavan, Dharwad - KSPCB",15.459706,75.008381,63.0,63,Satisfactory
+Hubballi,Karnataka,"Lingaraj Nagar, Hubballi - KSPCB",15.3714823,75.1160168,46.0,46,Good
+Madikeri,Karnataka,"Stuart Hill, Madikeri - KSPCB",12.415911,75.73505,21.0,21,Good
+Mysuru,Karnataka,"Hebbal 1st Stage, Mysuru - KSPCB",12.21041,76.37376,33.0,33,Good
+Indore,Madhya Pradesh,"Chhoti Gwaltoli, Indore - MPPCB",22.431,75.5213,82.0,82,Satisfactory
+Indore,Madhya Pradesh,"Maguda Nagar, Indore - IMC",22.7524,75.8872,24.0,24,Good
+Indore,Madhya Pradesh,"Residency Area, Indore - IMC",22.7084,75.8815,43.0,43,Good
+Belapur,Maharashtra,"CBD Belapur, Belapur - MPCB",19.0243902,73.0406721,50.0,50,Good
+Jalgaon,Maharashtra,"Prabhat Colony, Jalgaon - MPCB",21.001264,75.565602,64.0,64,Satisfactory
+Kolhapur,Maharashtra,"Shivaji University, Kolhapur - MPCB",16.6870449,74.2505872,45.0,45,Good
+Katni,Madhya Pradesh,"Gole Bazar, Katni - MPPCB",23.50016,80.23284,95.0,95,Satisfactory
+Jabalpur,Madhya Pradesh,"Marhatal, Jabalpur - MPPCB",23.168606,79.932247,74.0,74,Satisfactory
+Mumbai,Maharashtra,"Navy Nagar-Colaba, Mumbai - IITM",18.897756,72.81332,56.0,56,Satisfactory
+Mumbai,Maharashtra,"Shivaji Nagar, Mumbai - BMC",19.060498,72.923356,104.0,103,Moderate
+Mahad,Maharashtra,"Kamble Tarf Birwadi, Mahad - MPCB",18.1023399,73.4783687,68.0,68,Satisfactory
+Nagpur,Maharashtra,"Mahal, Nagpur - MPCB",21.14472,79.107595,115.0,110,Moderate
+Mumbai,Maharashtra,"Sion, Mumbai - MPCB",19.047,72.8746,82.0,82,Satisfactory
+Mumbai,Maharashtra,"Mazgaon, Mumbai - IITM",18.96702,72.84214,46.0,46,Good
+Nashik,Maharashtra,"MIDC Ambad, Nashik - MPCB",19.95022,73.73148,74.0,74,Satisfactory
+Baripada,Odisha,"Meher Colony, Baripada - OSPCB",21.941841,86.728318,31.0,31,Good
+Virar,Maharashtra,"Bolinj, Virar - MPCB",19.445821,72.7988231,59.0,59,Satisfactory
+Jalandhar,Punjab,"Civil Line, Jalandhar - PPCB",31.321907,75.578914,154.0,136,Moderate
+Pimpri-Chinchwad,Maharashtra,"Gavalinagar, Pimpri Chinchwad - MPCB",18.63673,73.82487,55.0,55,Satisfactory
+Keonjhar,Odisha,"Jagamohanpur, Keonjhar - OSPCB",21.6439,85.599355,59.0,59,Satisfactory
+Jaipur,Rajasthan,"Adarsh Nagar, Jaipur - RSPCB",26.902909,75.836858,76.0,76,Satisfactory
+Jaipur,Rajasthan,"Police Commissionerate, Jaipur - RSPCB",26.9164092,75.7994901,101.0,101,Moderate
+Alwar,Rajasthan,"Moti Doongri, Alwar - RSPCB",27.554793,76.611536,79.0,79,Satisfactory
+Barmer,Rajasthan,"Railway Colony, Barmer - RSPCB",25.747299,71.393989,81.0,81,Satisfactory
+Dausa,Rajasthan,"Khatikan Mohalla, Dausa - RSPCB",26.895552,76.334753,135.0,124,Moderate
+Bikaner,Rajasthan,"MM Ground, Bikaner - RSPCB",28.018792,73.292658,125.0,117,Moderate
+Chennai,TamilNadu,"Kodungaiyur, Chennai - TNPCB",13.1278,80.2642,47.0,47,Good
+Chennai,TamilNadu,"Manali Village, Chennai - TNPCB",13.1662,80.2584,38.0,38,Good
+Chennai,TamilNadu,"Perungudi, Chennai - TNPCB",12.9533,80.2357,55.0,55,Satisfactory
+Namakkal,TamilNadu,"Ponnusamy Nagar, Namakkal - TNPCB",11.273992,78.163545,18.0,18,Good
+Ooty,TamilNadu,"Bombay Castel, Ooty - TNPCB",11.4068288,76.7138973,29.0,29,Good
+Ramanathapuram,TamilNadu,"Chalai Bazaar, Ramanathapuram - TNPCB",9.36399,78.831977,22.0,22,Good
+Thoothukudi,TamilNadu,"Meelavittan, Thoothukudi - TNPCB",8.816428,78.099039,32.0,32,Good
+Pali,Rajasthan,"Indira Colony Vistar, Pali - RSPCB",25.771061,73.340227,116.0,111,Moderate
+Sawai Madhopur,Rajasthan,"Sahu Nagar, Sawai Madhopur - RSPCB",26.031443,76.359327,124.0,116,Moderate
+Gummidipoondi,TamilNadu,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",13.4127,80.1081,51.0,51,Satisfactory
+Hosur,TamilNadu,"SIPCOT Phase-1, Hosur - TNPCB",12.746998,77.813811,84.0,84,Satisfactory
+Chennai,TamilNadu,"Velachery Res. Area, Chennai - CPCB",13.0052189,80.2398125,52.0,52,Satisfactory
+Cuddalore,TamilNadu,"Semmandalam, Cuddalore - TNPCB",11.7637683,79.7499835,14.0,14,Good
+Agra,Uttar_Pradesh,"Sector-3B Avas Vikas Colony, Agra - UPPCB",27.19412,77.96237,128.0,119,Moderate
+Agra,Uttar_Pradesh,"Shastripuram, Agra - UPPCB",27.19862,77.92066,120.0,114,Moderate
+Bareilly,Uttar_Pradesh,"Civil Lines, Bareilly - UPPCB",28.359581,79.414455,12.0,12,Good
+Ghaziabad,Uttar_Pradesh,"Indirapuram, Ghaziabad - UPPCB",28.646233,77.358075,123.0,116,Moderate
+Ghaziabad,Uttar_Pradesh,"Loni, Ghaziabad - UPPCB",28.757294,77.278792,126.0,118,Moderate
+Noida,Uttar_Pradesh,"Sector - 125, Noida - UPPCB",28.5447608,77.3231257,122.0,115,Moderate
+Prayagraj,Uttar_Pradesh,"Motilal Nehru NIT, Prayagraj - UPPCB",25.494,81.863,87.0,87,Satisfactory
+Howrah,West_Bengal,"Belur Math, Howrah - WBPCB",22.629801,88.352017,30.0,30,Good
+Kolkata,West_Bengal,"Bidhannagar, Kolkata - WBPCB",22.58157048,88.41002457,62.0,62,Satisfactory
+Kolkata,West_Bengal,"Fort William, Kolkata - WBPCB",22.55664,88.342674,30.0,30,Good
+Arrah,Bihar,"New DM Office, Arrah - BSPCB",25.5626095,84.663264,51.0,51,Satisfactory
+Guwahati,Assam,"IITG, Guwahati - PCBA",26.2028636,91.70046436,27.0,27,Good
+Motihari,Bihar,"Gandak Colony, Motihari - BSPCB",26.63086,84.90051,34.0,34,Good
+Gaya,Bihar,"SFTI Kusdihra, Gaya - BSPCB",24.762518,84.982348,69.0,69,Satisfactory
+Tirupati,Andhra_Pradesh,"Vaikuntapuram, Tirupati - APPCB",13.615387,79.40923,67.0,67,Satisfactory
+Vijayawada,Andhra_Pradesh,"HB Colony, Vijayawada - APPCB",16.536107,80.594233,51.0,51,Satisfactory
+Naharlagun,Arunachal_Pradesh,"Naharlagun, Naharlagun - APSPCB",27.103358,93.679645,40.0,40,Good
+Patna,Bihar,"DRM Office Danapur, Patna - BSPCB",25.586562,85.043586,69.0,69,Satisfactory
+Patna,Bihar,"Govt. High School Shikarpur, Patna - BSPCB",25.592539,85.227158,115.0,110,Moderate
+Patna,Bihar,"Muradpur, Patna - BSPCB",25.619651,85.147382,96.0,96,Satisfactory
+Patna,Bihar,"Rajbansi Nagar, Patna - BSPCB",25.599486,85.113666,51.0,51,Satisfactory
+Kunjemura,Chhattisgarh,"OP Jindal School, Kunjemura - CECB",22.12665,83.483212,45.0,45,Good
+Bhilai,Chhattisgarh,"32Bungalows, Bhilai - CECB",21.194815,81.31477,43.0,43,Good
+Raipur,Chhattisgarh,"Krishak Nagar, Raipur - CECB",21.237755,81.705301,59.0,59,Satisfactory
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",28.5918245,77.2273074,171.0,148,Moderate
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",28.611281,77.237738,160.0,140,Moderate
+Ahmedabad,Gujarat,"SVPI Airport Hansol, Ahmedabad - IITM",23.076793,72.627874,41.0,41,Good
+Gandhinagar,Gujarat,"IIPHG Lekawada, Gandhinagar - IITM",23.243639,72.68994,78.0,78,Satisfactory
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",28.60909,77.0325413,150.0,134,Moderate
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",28.570173,76.933762,151.0,134,Moderate
+Delhi,Delhi,"Rohini, Delhi - DPCC",28.732528,77.11992,185.0,157,Moderate
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",28.530785,77.271255,175.0,150,Moderate
+Thiruvananthapuram,Kerala,"Plammoodu, Thiruvananthapuram - Kerala PCB",8.5149093,76.9435879,16.0,16,Good
+Thrissur,Kerala,"Corporation Ground, Thrissur - Kerala PCB",10.5324,76.2159,62.0,62,Satisfactory
+Bengaluru,Karnataka,"Bapuji Nagar, Bengaluru - KSPCB",12.951913,77.539784,39.0,39,Good
+Kalyan,Maharashtra,"Khadakpada, Kalyan - MPCB",19.25292,73.142019,106.0,104,Moderate
+Kalyan,Maharashtra,"Pimpleshwar Mandir, Kalyan - MPCB",19.192056,72.9585188,45.0,45,Good
+Kolhapur,Maharashtra,"Sinchan Bhavan, Kolhapur - MPCB",16.7143745,74.2426398,53.0,53,Satisfactory
+Latur,Maharashtra,"Sawe Wadi, Latur - MPCB",18.39963,76.57452,41.0,41,Good
+Aurangabad,Maharashtra,"MIDC Chilkalthana, Aurangabad - MPCB",19.87562,75.38731,106.0,104,Moderate
+Aurangabad,Maharashtra,"More Chowk Waluj, Aurangabad - MPCB",19.8389439,75.244448,50.0,50,Good
+Jabalpur,Madhya Pradesh,"Suhagi, Jabalpur - JMC",23.218135,79.95777,76.0,76,Satisfactory
+Indore,Madhya Pradesh,"Airport Area, Indore - IMC",22.7289,75.8076,41.0,41,Good
+Nagpur,Maharashtra,"Opp GPO Civil Lines, Nagpur - MPCB",21.152875,79.0517531,98.0,98,Satisfactory
+Nagpur,Maharashtra,"Ram Nagar, Nagpur - MPCB",21.143383,79.048912,124.0,116,Moderate
+Mumbai,Maharashtra,"Kherwadi_Bandra East, Mumbai - MPCB",19.0632143,72.8456324,52.0,52,Satisfactory
+Nashik,Maharashtra,"Pandav Nagari, Nashik - MPCB",19.9591346,73.7788008,46.0,46,Good
+Malegaon,Maharashtra,"Mahesh Nagar, Malegaon - MPCB",20.555712,74.529236,51.0,51,Satisfactory
+Mumbai,Maharashtra,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",19.10078,72.87462,71.0,71,Satisfactory
+Mumbai,Maharashtra,"Siddharth Nagar-Worli, Mumbai - IITM",19.000083,72.813993,83.0,83,Satisfactory
+Mumbai,Maharashtra,"Borivali East, Mumbai - MPCB",19.2243333,72.8658113,44.0,44,Good
+Pune,Maharashtra,"Katraj Dairy, Pune - MPCB",18.45445,73.854155,34.0,34,Good
+Suakati,Odisha,"OMC Colony, Suakati - OSPCB",21.606865,85.510538,46.0,46,Good
+Tensa,Odisha,"Barsua Iron Ore Mines, Tensa - OSPCB",21.869985,85.167016,54.0,54,Satisfactory
+Amritsar,Punjab,"Golden Temple, Amritsar - PPCB",31.62,74.876512,154.0,136,Moderate
+Cuttack,Odisha,"CDA Area, Cuttack - OSPCB",20.48891,85.84768,28.0,28,Good
+Nayagarh,Odisha,"Dabuna, Nayagarh - OSPCB",21.847279,85.416905,60.0,60,Satisfactory
+Imphal,Manipur,"DM College of Science, Imphal - Manipur PCB",24.8207389,93.9423085,27.0,27,Good
+Pune,Maharashtra,"Revenue Colony-Shivajinagar, Pune - IITM",18.530085,73.849598,74.0,74,Satisfactory
+Sangli,Maharashtra,"Vijay Nagar, Sangli - MPCB",16.5038,74.3623,54.0,54,Satisfactory
+Bileipada,Odisha,"Tata Township, Bileipada - OSPCB",22.06156703,85.47409613,87.0,87,Satisfactory
+Ludhiana,Punjab,"Punjab Agricultural University, Ludhiana - PPCB",30.9028,75.8086,119.0,113,Moderate
+Dholpur,Rajasthan,"Raja Ganj, Dholpur - RSPCB",26.699557,77.898881,124.0,116,Moderate
+Jaipur,Rajasthan,"RIICO Sitapura, Jaipur - RSPCB",26.786682,75.827928,113.0,109,Moderate
+Jodhpur,Rajasthan,"Mandor, Jodhpur - RSPCB",26.358805,73.047444,69.0,69,Satisfactory
+Karauli,Rajasthan,"Satyawati Vihar, Karauli - RSPCB",26.506177,77.025989,80.0,80,Satisfactory
+Jaisalmer,Rajasthan,"Sadar Bazar, Jaisalmer - RSPCB",26.912329,70.909168,107.0,105,Moderate
+Chennai,TamilNadu,"Alandur Bus Depot, Chennai - CPCB",12.9099161,80.1076538,38.0,38,Good
+Madurai,TamilNadu,"Uchapatti, Madurai - TNPCB",9.865935,78.022669,26.0,26,Good
+Dindigul,TamilNadu,"Mendonsa Colony, Dindigul - TNPCB",10.358535,77.984321,39.0,39,Good
+Coimbatore,TamilNadu,"PSG College of Arts and Science, Coimbatore - TNPCB",11.0328,77.0349,23.0,23,Good
+Tiruchirappalli,TamilNadu,"St Joseph College, Tiruchirappalli - TNPCB",10.830158,78.691849,42.0,42,Good
+Kanchipuram,TamilNadu,"Kilambi, Kanchipuram - TNPCB",12.864618,79.659968,41.0,41,Good
+Ghaziabad,Uttar_Pradesh,"Vasundhara, Ghaziabad - UPPCB",28.6603346,77.3572563,112.0,108,Moderate
+Gorakhpur,Uttar_Pradesh,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",26.730136,83.433859,124.0,116,Moderate
+Hyderabad,Telangana,"New Malakpet, Hyderabad - TSPCB",17.37206,78.50864,58.0,58,Satisfactory
+Hyderabad,Telangana,"IDA Pashamylaram, Hyderabad - TSPCB",17.5316895,78.218939,70.0,70,Satisfactory
+Hyderabad,Telangana,"IITH Kandi, Hyderabad - TSPCB",17.585705,78.126199,61.0,61,Satisfactory
+Hapur,Uttar_Pradesh,"Anand Vihar, Hapur - UPPCB",28.725645,77.749675,89.0,89,Satisfactory
+Jhansi,Uttar_Pradesh,"Shivaji Nagar, Jhansi - UPPCB",25.4547,78.6039,71.0,71,Satisfactory
+Kanpur,Uttar_Pradesh,"FTI Kidwai Nagar, Kanpur - UPPCB",26.428282,80.327067,86.0,86,Satisfactory
+Kanpur,Uttar_Pradesh,"NSI Kalyanpur, Kanpur - UPPCB",26.509954,80.249612,89.0,89,Satisfactory
+Kanpur,Uttar_Pradesh,"Nehru Nagar, Kanpur - UPPCB",26.4703136,80.3229863,73.0,73,Satisfactory
+Varanasi,Uttar_Pradesh,"Ardhali Bazar, Varanasi - UPPCB",25.3505986,82.9083074,55.0,55,Satisfactory
+Lucknow,Uttar_Pradesh,"Gomti Nagar, Lucknow - UPPCB",26.86812,81.005119,77.0,77,Satisfactory
+Lucknow,Uttar_Pradesh,"Kukrail Picnic Spot-1, Lucknow - UPPCB",26.90723,80.98579,64.0,64,Satisfactory
+Haldia,West_Bengal,"Priyambada Housing Estate, Haldia - WBPCB",22.06047,88.109737,24.0,24,Good
+Siliguri,West_Bengal,"Ward-32 Bapupara, Siliguri - WBPCB",26.6879226,88.4152495,35.0,35,Good
+Buxar,Bihar,"Charitra Van, Buxar - BSPCB",25.56752,83.966379,58.0,58,Satisfactory
+Gaya,Bihar,"Kareemganj, Gaya - BSPCB",24.792403,84.992416,112.0,108,Moderate
+Aurangabad,Bihar,"Gurdeo Nagar, Aurangabad - BSPCB",24.75746,84.366208,53.0,53,Satisfactory
+Muzaffarpur,Bihar,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",26.1403345,85.3650192,44.0,44,Good
+Delhi,Delhi,"ITO, Delhi - CPCB",28.628624,77.24106,136.0,124,Moderate
+Delhi,Delhi,"Lodhi Road, Delhi - IITM",28.588333,77.221667,122.0,115,Moderate
+Delhi,Delhi,"Alipur, Delhi - DPCC",28.815329,77.15301,177.0,151,Moderate
+Delhi,Delhi,"Bawana, Delhi - DPCC",28.7762,77.051074,189.0,159,Moderate
+Delhi,Delhi,"Chandni Chowk, Delhi - IITM",28.656756,77.227234,71.0,71,Satisfactory
+Bhilai,Chhattisgarh,"Civic Center, Bhilai - Bhilai Steel Plant",21.185571,81.343175,30.0,30,Good
+Korba,Chhattisgarh,"Rampur, Korba - CECB",22.368195,82.746431,43.0,43,Good
+Raipur,Chhattisgarh,"AIIMS, Raipur - CECB",21.258815,81.578979,62.0,62,Satisfactory
+Raipur,Chhattisgarh,"Siltara Phase-II, Raipur - CECB",21.371751,81.664929,99.0,99,Satisfactory
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",28.699793,77.165453,236.0,191,Moderate
+Ahmedabad,Gujarat,"Rakhial, Ahmedabad - IITM",23.016834,72.625775,47.0,47,Good
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",28.710508,77.249485,172.0,148,Moderate
+Panchgaon,Haryana,"Amity University, Panchgaon - IITM",28.3153,76.9143,71.0,71,Satisfactory
+Delhi,Delhi,"Narela, Delhi - DPCC",28.822836,77.101981,190.0,160,Moderate
+Vijayapura,Karnataka,"Ibrahimpur, Vijayapura - KSPCB",16.802639,75.722694,47.0,47,Good
+Eloor,Kerala,"Udyogamandal, Eloor - Kerala PCB",10.073232,76.302765,43.0,43,Good
+Damoh,Madhya Pradesh,"Shrivastav Colony, Damoh - MPPCB",23.81748678,79.446246,81.0,81,Satisfactory
+Chikkaballapur,Karnataka,"Chikkaballapur Rural, Chikkaballapur - KSPCB",13.428828,77.731418,31.0,31,Good
+Bengaluru,Karnataka,"Jigani, Bengaluru - KSPCB",12.7816279,77.6299145,73.0,73,Satisfactory
+Kollam,Kerala,"Polayathode, Kollam - Kerala PCB",8.8787,76.6073,81.0,81,Satisfactory
+Bengaluru,Karnataka,"Hebbal, Bengaluru - KSPCB",13.029152,77.585901,17.0,17,Good
+Pithampur,Madhya Pradesh,"Sector-2 Industrial Area, Pithampur - MPPCB",22.624758,75.675238,91.0,91,Satisfactory
+Aurangabad,Maharashtra,"Rachnakar Colony, Aurangabad - MPCB",19.863756,75.321188,87.0,87,Satisfactory
+Sagar,Madhya Pradesh,"Deen Dayal Nagar, Sagar - MPPCB",23.8640158,78.80289321,56.0,56,Satisfactory
+Navi Mumbai,Maharashtra,"Kopripada-Vashi, Navi Mumbai - MPCB",19.090337,73.014232,54.0,54,Satisfactory
+Mumbai,Maharashtra,"Chembur, Mumbai - MPCB",19.0364585,72.8954371,52.0,52,Satisfactory
+Mumbai,Maharashtra,"Byculla, Mumbai - BMC",18.9767,72.838,28.0,28,Good
+Mumbai,Maharashtra,"Worli, Mumbai - MPCB",18.9936162,72.8128113,74.0,74,Satisfactory
+Nagpur,Maharashtra,"Ambazari, Nagpur - MPCB",21.121801,79.04952,112.0,108,Moderate
+Mumbai,Maharashtra,"Powai, Mumbai - MPCB",19.1375,72.915056,60.0,60,Satisfactory
+Rairangpur,Odisha,"Divisional Forest Office, Rairangpur - OSPCB",22.265816,86.174829,50.0,50,Good
+Rourkela,Odisha,"Fertilizer Township, Rourkela - OSPCB",22.18972222,84.86277778,100.0,100,Satisfactory
+Rourkela,Odisha,"Sector-2, Rourkela - OSPCB",22.245,84.88111111,74.0,74,Satisfactory
+Talcher,Odisha,"Talcher Coalfields,Talcher - OSPCB",20.9360711,85.1707021,40.0,40,Good
+Brajrajnagar,Odisha,"GM Office, Brajrajnagar - OSPCB",21.8004996,83.8396977,56.0,56,Satisfactory
+Pimpri-Chinchwad,Maharashtra,"Park Street Wakad, Pimpri Chinchwad - MPCB",18.59051,73.77946,59.0,59,Satisfactory
+Bhubaneswar,Odisha,"Lingraj Mandir, Bhubaneswar - OSPCB",20.24079,85.836784,19.0,19,Good
+Ulhasnagar,Maharashtra,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",19.235581,73.159121,93.0,93,Satisfactory
+Jodhpur,Rajasthan,"Collectorate, Jodhpur - RSPCB",26.268249,73.0193853,86.0,86,Satisfactory
+Jodhpur,Rajasthan,"Jhalamand, Jodhpur - RSPCB",26.215415,73.070156,75.0,75,Satisfactory
+Jodhpur,Rajasthan,"Samrat Ashok Udhyan, Jodhpur - RSPCB",26.253384,72.976571,56.0,56,Satisfactory
+Jaipur,Rajasthan,"Shastri Nagar, Jaipur - RSPCB",26.9502929,75.730943,108.0,106,Moderate
+Bhiwadi,Rajasthan,"RIICO Ind. Area III, Bhiwadi - RSPCB",28.194909,76.862296,97.0,97,Satisfactory
+Ajmer,Rajasthan,"Civil Lines,  Ajmer - RSPCB",26.470859,74.646594,84.0,84,Satisfactory
+Hanumangarh,Rajasthan,"Housing Board, Hanumangarh - RSPCB",29.61075,74.283608,137.0,125,Moderate
+Jaipur,Rajasthan,"Mansarovar Sector-12, Jaipur - RSPCB",26.843698,75.766894,91.0,91,Satisfactory
+Dungarpur,Rajasthan,"Bhoiwada, Dungarpur - RSPCB",23.837789,73.714926,85.0,85,Satisfactory
+Chennai,TamilNadu,"Royapuram, Chennai - TNPCB",13.1036,80.2909,33.0,33,Good
+Udaipur,Rajasthan,"Ashok Nagar, Udaipur - RSPCB",24.5886166,73.6321397,81.0,81,Satisfactory
+Bulandshahr,Uttar_Pradesh,"Yamunapuram, Bulandshahr - UPPCB",28.406963,77.849831,118.0,112,Moderate
+Hyderabad,Telangana,"Ramachandrapuram, Hyderabad - TSPCB",17.528544,78.286195,67.0,67,Satisfactory
+Hyderabad,Telangana,"Somajiguda, Hyderabad - TSPCB",17.417094,78.457437,101.0,101,Moderate
+Asansol,West_Bengal,"Asansol Court Area, Asansol - WBPCB",23.685297,86.945968,57.0,57,Satisfactory
+Varanasi,Uttar_Pradesh,"IESD Banaras Hindu University, Varanasi - UPPCB",25.262326,82.995408,51.0,51,Satisfactory
+Vrindavan,Uttar_Pradesh,"Omex Eternity, Vrindavan - UPPCB",27.571409,77.655757,60.0,60,Satisfactory
+Noida,Uttar_Pradesh,"Sector - 62, Noida - IMD",28.6245479,77.3577104,151.0,134,Moderate
+Noida,Uttar_Pradesh,"Sector-1, Noida - UPPCB",28.5898,77.3101,137.0,125,Moderate
+Lucknow,Uttar_Pradesh,"Talkatora District Industries Center, Lucknow - CPCB",26.83399722,80.8917361,169.0,146,Moderate
+Meerut,Uttar_Pradesh,"Pallavpuram Phase 2, Meerut - UPPCB",29.06351,77.709723,117.0,112,Moderate
+Moradabad,Uttar_Pradesh,"Buddhi Vihar, Moradabad - UPPCB",28.83526,78.7446,68.0,68,Satisfactory
+Durgapur,West_Bengal,"PCBL Residential Complex, Durgapur - WBPCB",23.508764,87.35444,77.0,77,Satisfactory
+Howrah,West_Bengal,"Botanical Garden, Howrah - WBPCB",22.554954,88.292568,31.0,31,Good
+Howrah,West_Bengal,"Dasnagar, Howrah - WBPCB",22.6025571,88.3105664,42.0,42,Good
+Howrah,West_Bengal,"Ghusuri, Howrah - WBPCB",22.611968,88.347422,24.0,24,Good
+Kolkata,West_Bengal,"Rabindra Bharati University, Kolkata - WBPCB",22.627847,88.380669,24.0,24,Good
+Kolkata,West_Bengal,"Rabindra Sarobar, Kolkata - WBPCB",22.51106,88.35142,28.0,28,Good
+Kolkata,West_Bengal,"Victoria, Kolkata - WBPCB",22.5448082,88.3403691,39.0,39,Good
+Vijayawada,Andhra_Pradesh,"Rajiv Gandhi Park, Vijayawada - APPCB",16.509717,80.612222,48.0,48,Good
+Anantapur,Andhra_Pradesh,"Gulzarpet, Anantapur - APPCB",14.675886,77.593027,64.0,64,Satisfactory
+Sri Vijaya Puram,Andaman and Nicobar,"Police Line, Sri Vijaya Puram - ANPCC",11.654054,92.734055,17.0,17,Good
+Patna,Bihar,"Samanpura, Patna - BSPCB",25.596727,85.085624,99.0,99,Satisfactory
+Korba,Chhattisgarh,"Urja Nagar, Korba - CECB",22.348441,82.549611,79.0,79,Satisfactory
+Delhi,Delhi,"Shadipur, Delhi - CPCB",28.6514781,77.1473105,176.0,151,Moderate
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",28.531346,77.190156,163.0,142,Moderate
+Ahmedabad,Gujarat,"SAC ISRO Bopal, Ahmedabad - IITM",23.041137,72.456691,68.0,68,Satisfactory
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",28.636429,77.201067,141.0,128,Moderate
+Delhi,Delhi,"Mundka, Delhi - DPCC",28.684678,77.076574,246.0,197,Moderate
+Ahmedabad,Gujarat,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",23.04307,72.562968,60.0,60,Satisfactory
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",28.672342,77.31526,172.0,148,Moderate
+Ahmedabad,Gujarat,"Gyaspur, Ahmedabad - IITM",22.977134,72.553024,99.0,99,Satisfactory
+Kalaburagi,Karnataka,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",17.336318,76.847397,36.0,36,Good
+Surat,Gujarat,"Science Center, Surat - SMC",21.170046,72.795405,32.0,32,Good
+Thiruvananthapuram,Kerala,"Kariavattom, Thiruvananthapuram - Kerala PCB",8.5637,76.8865,58.0,58,Satisfactory
+Bhopal,Madhya Pradesh,"Idgah Hills, Bhopal - MPPCB",23.264759,77.381568,89.0,89,Satisfactory
+Shivamogga,Karnataka,"Vinoba Nagara, Shivamogga - KSPCB",13.94,75.555917,46.0,46,Good
+Bengaluru,Karnataka,"Kasturi Nagar, Bengaluru - KSPCB",13.003872,77.664217,73.0,73,Satisfactory
+Sagar,Madhya Pradesh,"Civil Lines, Sagar - MPPCB",23.838586,78.759431,49.0,49,Good
+Singrauli,Madhya Pradesh,"Suryakiran Bhawan NCL, Singrauli - MPPCB",24.10897,82.64558,71.0,71,Satisfactory
+Badlapur,Maharashtra,"Katrap, Badlapur - MPCB",19.16485,73.23409,105.0,104,Moderate
+Bhiwandi,Maharashtra,"Gokul Nagar, Bhiwandi - MPCB",19.309073,73.057223,89.0,89,Satisfactory
+Dewas,Madhya Pradesh,"Bhopal Chauraha, Dewas - MPPCB",22.9682591,76.064118,64.0,64,Satisfactory
+Mandideep,Madhya Pradesh,"Sector-D Industrial Area, Mandideep - MPPCB",23.10844,77.511428,85.0,85,Satisfactory
+Indore,Madhya Pradesh,"Vijay Nagar Scheme-78, Indore - Glenmark",22.76726,75.8871,40.0,40,Good
+Akola,Maharashtra,"Ramdaspeth, Akola - MPCB",20.719516,77.000253,52.0,52,Satisfactory
+Gwalior,Madhya Pradesh,"Deen Dayal Nagar, Gwalior - MPPCB",26.259242,78.216432,122.0,115,Moderate
+Mumbai,Maharashtra,"Kandivali West, Mumbai - BMC",19.215859,72.831718,30.0,30,Good
+Mira-Bhayandar,Maharashtra,"Bhayandar West, Mira-Bhayandar - MPCB",19.296481,72.840923,48.0,48,Good
+Mumbai,Maharashtra,"Sewri, Mumbai - BMC",19.000084,72.85673,47.0,47,Good
+Nashik,Maharashtra,"Hirawadi, Nashik - MPCB",20.021503,73.813844,72.0,72,Satisfactory
+Mumbai,Maharashtra,"Ghatkopar, Mumbai - BMC",19.083694,72.920967,75.0,75,Satisfactory
+Angul,Odisha,"Hakimapada, Angul - OSPCB",20.832874,85.104082,40.0,40,Good
+Balasore,Odisha,"Kalidaspur, Balasore - OSPCB",21.51161,86.89088,33.0,33,Good
+Barbil,Odisha,"Forest Office, Barbil - OSPCB",22.1166054,85.3945546,60.0,60,Satisfactory
+Thane,Maharashtra,"Kasarvadavali, Thane - MPCB",19.26777,72.97182,74.0,74,Satisfactory
+Thane,Maharashtra,"Upvan Fort, Thane - MPCB",19.222279,72.957979,40.0,40,Good
+Rourkela,Odisha,"Raghunathpali, Rourkela - OSPCB",22.220833,84.809444,75.0,75,Satisfactory
+Pimpri-Chinchwad,Maharashtra,"Thergaon, Pimpri Chinchwad - MPCB",18.616318,73.765797,57.0,57,Satisfactory
+Pune,Maharashtra,"Panchawati_Pashan, Pune - IITM",18.536457,73.805454,45.0,45,Good
+Solapur,Maharashtra,"Ratandeep Housing Society, Solapur - MPCB",17.65439,75.90649,50.0,50,Good
+Khanna,Punjab,"Kalal Majra, Khanna - PPCB",30.736056,76.209694,130.0,120,Moderate
+Kota,Rajasthan,"Dhanmandi, Kota - RSPCB",25.16409,75.858137,74.0,74,Satisfactory
+Kota,Rajasthan,"Nayapura, Kota - RSPCB",25.196024,75.855668,80.0,80,Satisfactory
+Bhiwadi,Rajasthan,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",28.207266,76.829265,111.0,108,Moderate
+Chittorgarh,Rajasthan,"Shastri Nagar, Chittorgarh - RSPCB",24.892047,74.623527,74.0,74,Satisfactory
+Banswara,Rajasthan,"Rati Talai, Banswara - RSPCB",23.55519,74.44001,61.0,61,Satisfactory
+Baran,Rajasthan,"Bamboliya, Baran - RSPCB",25.106006,76.469948,81.0,81,Satisfactory
+Bharatpur,Rajasthan,"Krishna Nagar, Bharatpur - RSPCB",27.215415,77.50873,102.0,102,Moderate
+Jalore,Rajasthan,"Mudtra Sili, Jalore - RSPCB",25.344694,72.626208,79.0,79,Satisfactory
+Jhalawar,Rajasthan,"Rajlaxmi Nagar, Jhalawar - RSPCB",24.588397,76.172782,94.0,94,Satisfactory
+Churu,Rajasthan,"Subash Chowk, Churu - RSPCB",28.296139,74.961696,81.0,81,Satisfactory
+Mandi Gobindgarh,Punjab,"RIMT University, Mandi Gobindgarh - PPCB",30.649961,76.331442,112.0,108,Moderate
+Patiala,Punjab,"Model Town, Patiala - PPCB",30.349388,76.366642,129.0,120,Moderate
+Salem,TamilNadu,"Sona College of Technology, Salem - TNPCB",11.679111,78.125052,25.0,25,Good
+Thanjavur,TamilNadu,"Parisutham Nagar, Thanjavur - TNPCB",10.7654824,79.1389968,23.0,23,Good
+Sri Ganganagar,Rajasthan,"Old City, Sri Ganganagar - RSPCB",29.931624,73.864511,152.0,135,Moderate
+Agra,Uttar_Pradesh,"Manoharpur, Agra - UPPCB",27.23711,78.01936,98.0,98,Satisfactory
+Agra,Uttar_Pradesh,"Rohta, Agra - UPPCB",27.106972,78.000111,61.0,61,Satisfactory
+Agra,Uttar_Pradesh,"Sanjay Palace, Agra - UPPCB",27.19865833,78.00598056,105.0,104,Moderate
+Agra,Uttar_Pradesh,"Shahjahan Garden, Agra - UPPCB",27.169338,78.03582,75.0,75,Satisfactory
+Hyderabad,Telangana,"Kokapet, Hyderabad - TSPCB",17.393559,78.339194,91.0,91,Satisfactory
+Hyderabad,Telangana,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17.429398,78.569354,78.0,78,Satisfactory
+Ghaziabad,Uttar_Pradesh,"Sanjay Nagar, Ghaziabad - UPPCB",28.685382,77.453839,125.0,117,Moderate
+Baghpat,Uttar_Pradesh,"Sardar Patel Inter College, Baghpat - UPPCB",28.964949,77.278761,142.0,128,Moderate
+Hyderabad,Telangana,"ICRISAT Patancheru, Hyderabad - TSPCB",17.5184,78.278777,53.0,53,Satisfactory
+Muzaffarnagar,Uttar_Pradesh,"New Mandi, Muzaffarnagar - UPPCB",29.4723508,77.7194031,127.0,118,Moderate
+Varanasi,Uttar_Pradesh,"Maldahiya, Varanasi - UPPCB",25.32393,82.99687,62.0,62,Satisfactory
+Dehradun,Uttarakhand,"Doon University, Dehradun - UKPCB",30.269444,78.044167,94.0,94,Satisfactory
+Lucknow,Uttar_Pradesh,"Kendriya Vidyalaya, Lucknow - CPCB",26.906111,80.948222,138.0,126,Moderate
+Lucknow,Uttar_Pradesh,"Lalbagh, Lucknow - CPCB",26.8458805,80.9365541,132.0,122,Moderate
+Meerut,Uttar_Pradesh,"Jai Bhim Nagar, Meerut - UPPCB",28.9535882,77.7622941,104.0,103,Moderate
+Khurja,Uttar_Pradesh,"Kalindi Kunj, Khurja - UPPCB",28.2348927,77.8683002,127.0,118,Moderate
+Asansol,West_Bengal,"Evelyn Lodge, Asansol - WBPCB",23.697936,86.944395,41.0,41,Good
+Asansol,West_Bengal,"Mahabir Colliery, Asansol - WBPCB",23.618183,87.105718,37.0,37,Good
+Kolkata,West_Bengal,"Jadavpur, Kolkata - WBPCB",22.49929,88.36917,48.0,48,Good
